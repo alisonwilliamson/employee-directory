@@ -1,6 +1,6 @@
 # employee-directory
 
-An React employee directory that uses Material UI as the framework and a dummy API to render random employee data to a table. You can search for an employee name in the search bar and sort each column by the little arrow next to the column title.
+A React employee directory that uses Material UI as the framework and a dummy API to render random employee data to a table. You can search for an employee name in the search bar and sort each column by the little arrow next to the column title.
 
 ## User Story
 
