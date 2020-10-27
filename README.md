@@ -1,6 +1,6 @@
 # employee-directory
 
-An React employee directory that uses Material UI as the framework and a dummy API to render random employee data to a table. You can search for an employee name in the search bar and sort each column by the little arrow next to the column title.
+A React employee directory that uses Material UI as the framework and a dummy API to render random employee data to a table. You can search for an employee name in the search bar and sort each column by the little arrow next to the column title.
 
 ## User Story
 
@@ -19,6 +19,13 @@ The user can:
   * Sort the table by at least one category
 
   * Filter the users by at least one property.
+  
+## Screenshots
+
+![Screenshot (120)](https://user-images.githubusercontent.com/54878075/97261044-9e8d2f80-17e3-11eb-8909-470e37bccbfa.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/54878075/97261111-cbd9dd80-17e3-11eb-889a-debe85f76568.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/54878075/97261233-03488a00-17e4-11eb-99bf-fcb7f3280342.png)
+![Screenshot (124)](https://user-images.githubusercontent.com/54878075/97261277-1c513b00-17e4-11eb-9c01-1c2ace4109f8.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
