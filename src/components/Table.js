@@ -21,7 +21,7 @@ class Table extends Component {
 
     render () {
         return (
-            <MaterialTable style={{marginTop: 25}}
+            <MaterialTable style={{marginTop: 35}}
                 title="Employees"
                 columns={this.state.columns}
                 data={this.state.data}
